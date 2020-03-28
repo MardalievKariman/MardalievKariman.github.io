@@ -2,4 +2,4 @@
 my first site
 https://mardalievkariman.github.io/
 
-!Screenshot[img/img.png]
+!Screenshot[img.png]
